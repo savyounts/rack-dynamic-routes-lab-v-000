@@ -7,4 +7,10 @@ class Item
     @price = price
     @@items << self
   end
+
+  def self.items
+    @@items
+  end
+
+  
 end
