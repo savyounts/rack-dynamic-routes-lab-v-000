@@ -12,5 +12,5 @@ class Item
     @@items
   end
 
-  
+
 end
